@@ -49,4 +49,3 @@ Examples of commands: "Open YouTube," "Send an email," "Play music," etc.
 
 - [Imamul Hasan](https://imamul5641.github.io/imamulhasan.github.io/) (Add a link to your GitHub profile or personal website)
   
-Feel free to customize the placeholders marked with `#` and add your GitHub profile link to the Author section. If you want to include your email or any other contact information, you can add that as well.
