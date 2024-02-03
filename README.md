@@ -1,10 +1,7 @@
 # LARVIS - Lady Jarvis
 
 LARVIS (Lady Jarvis) is a simple Python-based digital assistant that utilizes speech recognition and various APIs to perform tasks and provide information.
-```
-bash
-$ npm install
-```
+
 
 ## Features
 
@@ -27,20 +24,21 @@ Make sure you have the following installed:
 2. LARVIS will greet you and wait for your command.
 3. Speak a command, and LARVIS will execute the corresponding action.
 
+```python
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  passwd="1234",
+  database="school"
+)
+```
+
 Examples of commands: "Open YouTube," "Send an email," "Play music," etc.
 
 ## Configuration
 
 - Set up your email credentials in the script for the email functionality.
 - Specify your music folder and songs in the script for music playback.
-
-## Contributing
-
-Feel free to contribute to the project by submitting pull requests or reporting issues.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
