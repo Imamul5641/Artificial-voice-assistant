@@ -1,7 +1,8 @@
 # LARVIS - Lady Jarvis
 
 LARVIS (Lady Jarvis) is a simple Python-based digital assistant that utilizes speech recognition and various APIs to perform tasks and provide information.
-```bash
+```
+bash
 $ npm install
 ```
 
